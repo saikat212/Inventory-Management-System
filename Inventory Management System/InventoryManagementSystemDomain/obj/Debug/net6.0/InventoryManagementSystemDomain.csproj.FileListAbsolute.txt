@@ -1,0 +1,12 @@
+E:\Internship Program\Tech Learning\Reference\InventoryManagementSystemDomain\bin\Debug\net6.0\InventoryManagementSystemDomain.deps.json
+E:\Internship Program\Tech Learning\Reference\InventoryManagementSystemDomain\bin\Debug\net6.0\InventoryManagementSystemDomain.dll
+E:\Internship Program\Tech Learning\Reference\InventoryManagementSystemDomain\bin\Debug\net6.0\InventoryManagementSystemDomain.pdb
+E:\Internship Program\Tech Learning\Reference\InventoryManagementSystemDomain\obj\Debug\net6.0\InventoryManagementSystemDomain.csproj.AssemblyReference.cache
+E:\Internship Program\Tech Learning\Reference\InventoryManagementSystemDomain\obj\Debug\net6.0\InventoryManagementSystemDomain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Internship Program\Tech Learning\Reference\InventoryManagementSystemDomain\obj\Debug\net6.0\InventoryManagementSystemDomain.AssemblyInfoInputs.cache
+E:\Internship Program\Tech Learning\Reference\InventoryManagementSystemDomain\obj\Debug\net6.0\InventoryManagementSystemDomain.AssemblyInfo.cs
+E:\Internship Program\Tech Learning\Reference\InventoryManagementSystemDomain\obj\Debug\net6.0\InventoryManagementSystemDomain.csproj.CoreCompileInputs.cache
+E:\Internship Program\Tech Learning\Reference\InventoryManagementSystemDomain\obj\Debug\net6.0\InventoryManagementSystemDomain.dll
+E:\Internship Program\Tech Learning\Reference\InventoryManagementSystemDomain\obj\Debug\net6.0\refint\InventoryManagementSystemDomain.dll
+E:\Internship Program\Tech Learning\Reference\InventoryManagementSystemDomain\obj\Debug\net6.0\InventoryManagementSystemDomain.pdb
+E:\Internship Program\Tech Learning\Reference\InventoryManagementSystemDomain\obj\Debug\net6.0\ref\InventoryManagementSystemDomain.dll
