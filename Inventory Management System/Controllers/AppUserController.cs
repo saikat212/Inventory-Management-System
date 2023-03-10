@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Inventory_Management_System.InventoryManagementSystemDomain.Entity;
+
 using InventoryManagementSystemInfrastructure.IService;
+using Inventory_Management_System.InventoryManagementSystemDomain.Entity;
 
 namespace Inventory_Management_System.Controllers
 {

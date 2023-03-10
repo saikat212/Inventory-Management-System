@@ -1,5 +1,4 @@
-﻿using Humanizer;
-using static Humanizer.In;
+﻿
 using static Inventory_Management_System.Models.Registration;
 using System.Net;
 
