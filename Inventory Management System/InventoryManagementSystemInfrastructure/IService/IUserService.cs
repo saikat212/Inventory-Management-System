@@ -1,5 +1,5 @@
 ﻿using Inventory_Management_System.InventoryManagementSystemDomain.Entity;
-using InventoryManagementSystemDomain.Entity;
+using Inventory_Management_System.InventoryManagementSystemDomain.Entity;
 
 namespace InventoryManagementSystemInfrastructure.IService
 {

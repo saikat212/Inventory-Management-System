@@ -1,4 +1,5 @@
-﻿using InventoryManagementSystemDomain.Entity;
+﻿using Inventory_Management_System.InventoryManagementSystemDomain.Entity;
+using Inventory_Management_System.InventoryManagementSystemDomain.Entity;
 using InventoryManagementSystemInfrastructure.DataContext;
 using InventoryManagementSystemInfrastructure.IService;
 using System;

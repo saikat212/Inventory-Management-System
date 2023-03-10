@@ -1,4 +1,4 @@
-﻿using InventoryManagementSystemDomain.Entity;
+﻿using Inventory_Management_System.InventoryManagementSystemDomain.Entity;
 using Microsoft.EntityFrameworkCore;
 
 namespace InventoryManagementSystemInfrastructure.DataContext
