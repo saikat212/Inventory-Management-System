@@ -1,0 +1,17 @@
+E:\Internship Program\Tech Learning\Reference\InventoryManagementSystemInfrastructure\bin\Debug\net6.0\InventoryManagementSystemInfrastructure.deps.json
+E:\Internship Program\Tech Learning\Reference\InventoryManagementSystemInfrastructure\bin\Debug\net6.0\InventoryManagementSystemInfrastructure.runtimeconfig.json
+E:\Internship Program\Tech Learning\Reference\InventoryManagementSystemInfrastructure\bin\Debug\net6.0\InventoryManagementSystemInfrastructure.dll
+E:\Internship Program\Tech Learning\Reference\InventoryManagementSystemInfrastructure\bin\Debug\net6.0\InventoryManagementSystemInfrastructure.pdb
+E:\Internship Program\Tech Learning\Reference\InventoryManagementSystemInfrastructure\bin\Debug\net6.0\InventoryManagementSystemDomain.dll
+E:\Internship Program\Tech Learning\Reference\InventoryManagementSystemInfrastructure\bin\Debug\net6.0\InventoryManagementSystemDomain.pdb
+E:\Internship Program\Tech Learning\Reference\InventoryManagementSystemInfrastructure\obj\Debug\net6.0\InventoryManagementSystemInfrastructure.csproj.AssemblyReference.cache
+E:\Internship Program\Tech Learning\Reference\InventoryManagementSystemInfrastructure\obj\Debug\net6.0\InventoryManagementSystemInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Internship Program\Tech Learning\Reference\InventoryManagementSystemInfrastructure\obj\Debug\net6.0\InventoryManagementSystemInfrastructure.AssemblyInfoInputs.cache
+E:\Internship Program\Tech Learning\Reference\InventoryManagementSystemInfrastructure\obj\Debug\net6.0\InventoryManagementSystemInfrastructure.AssemblyInfo.cs
+E:\Internship Program\Tech Learning\Reference\InventoryManagementSystemInfrastructure\obj\Debug\net6.0\InventoryManagementSystemInfrastructure.csproj.CoreCompileInputs.cache
+E:\Internship Program\Tech Learning\Reference\InventoryManagementSystemInfrastructure\obj\Debug\net6.0\InventoryManagementSystemInfrastructure.csproj.CopyComplete
+E:\Internship Program\Tech Learning\Reference\InventoryManagementSystemInfrastructure\obj\Debug\net6.0\InventoryManagementSystemInfrastructure.dll
+E:\Internship Program\Tech Learning\Reference\InventoryManagementSystemInfrastructure\obj\Debug\net6.0\refint\InventoryManagementSystemInfrastructure.dll
+E:\Internship Program\Tech Learning\Reference\InventoryManagementSystemInfrastructure\obj\Debug\net6.0\InventoryManagementSystemInfrastructure.pdb
+E:\Internship Program\Tech Learning\Reference\InventoryManagementSystemInfrastructure\obj\Debug\net6.0\InventoryManagementSystemInfrastructure.genruntimeconfig.cache
+E:\Internship Program\Tech Learning\Reference\InventoryManagementSystemInfrastructure\obj\Debug\net6.0\ref\InventoryManagementSystemInfrastructure.dll
